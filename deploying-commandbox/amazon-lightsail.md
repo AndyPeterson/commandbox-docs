@@ -12,7 +12,7 @@ First login to your Amazon Lightsail account and create an instance
 
 **Instance Settings**
 
-These are the insance settings that are working. Your mileage may vary for something not indicated in this list.
+These are the instance settings that are working. Your mileage may vary for something not indicated in this list.
 
 * Select OS Only
 * Ubuntu 18.04
